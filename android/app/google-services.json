@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184062159601",
+    "firebase_url": "https://bluenet-acae7-default-rtdb.firebaseio.com",
+    "project_id": "bluenet-acae7",
+    "storage_bucket": "bluenet-acae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184062159601:android:ae33aab310b55cb12b9750",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184062159601-8fekq6r9a0hld3ssbf9glp9s9qgsc4m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEVftSDZrGD0v7f7RU5TIaBxrgcVb-nnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184062159601-8fekq6r9a0hld3ssbf9glp9s9qgsc4m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
